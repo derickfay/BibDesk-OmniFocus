@@ -7,6 +7,7 @@ At the moment, this consists of two Applescripts to create new OmniFocus tasks (
 
 **Note**: 
 x-bibdesk://cite key
+
 list of URLs and linked files
 
 This approach
