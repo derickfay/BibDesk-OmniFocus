@@ -4,6 +4,7 @@ Integration of BibDesk and OmniFocus
 At the moment, this consists of two Applescripts to create new OmniFocus tasks (in the Quick Entry window) from BibDesk item, as follows:
 
 **Name**: Author (Date) Title.
+
 **Note**: 
 x-bibdesk://cite key
 list of URLs and linked files
